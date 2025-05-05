@@ -1,4 +1,4 @@
-# 🧾 Resume Parser using NLP (spaCy)
+# Resume Parser using NLP (spaCy)
 
 This project extracts structured data from unstructured resume text files using Natural Language Processing with Python.
 
@@ -11,7 +11,7 @@ It parses resumes to identify and extract:
 
 ---
 
-## 🎯 Project Goals
+## Project Goals
 
 - Demonstrate practical NLP using `spaCy` and regex
 - Structure real-world resume data into usable formats
@@ -19,7 +19,7 @@ It parses resumes to identify and extract:
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Python 3.12
 - `spaCy`
@@ -29,7 +29,7 @@ It parses resumes to identify and extract:
 
 ---
 
-## 🧪 Example Output
+## Example Output
 
 ```json
 {
